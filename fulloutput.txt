@@ -1,0 +1,90 @@
+Warming Up
+==========
+
+Good Tests
+==========
+
+running append0.lpl:
+
+running append126.lpl:
+
+running append13.lpl:
+
+running append143.lpl:
+
+running append191.lpl:
+
+running append2.lpl:
+
+running append216.lpl:
+
+running append236.lpl:
+
+running append95.lpl:
+
+running natplus0.lpl:
+
+running natplus1.lpl:
+
+running natplus141.lpl:
+
+running natplus240.lpl:
+
+running natplus33.lpl:
+
+running natplus57.lpl:
+
+running natplus7.lpl:
+
+running test1.lpl:
+
+running test10.lpl:
+
+running test11.lpl:
+
+running test2.lpl:
+
+running test3.lpl:
+
+running test4.lpl:
+
+running test5.lpl:
+
+running test6.lpl:
+
+running test7.lpl:
+
+running test8.lpl:
+
+running test9.lpl:
+
+
+Bad Tests
+=========
+
+running badtest1.lpl:
+
+running badtest10.lpl:
+
+running badtest11.lpl:
+
+running badtest12.lpl:
+
+running badtest2.lpl:
+
+running badtest21.lpl:
+
+running badtest3.lpl:
+
+running badtest4.lpl:
+
+running badtest5.lpl:
+
+running badtest6.lpl:
+
+running badtest7.lpl:
+
+running badtest8.lpl:
+
+running badtest9.lpl:
+
